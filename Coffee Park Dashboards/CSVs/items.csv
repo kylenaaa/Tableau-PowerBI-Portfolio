@@ -1,0 +1,18 @@
+item_id,sku,item_name,item_cat,item_size,item_price
+it001,HT-CAPP-R,Cappuccino,Hot Coffee,R,3.75
+it002,HT-CAPP-L,Cappuccino,Hot Coffee,L,4.65
+it003,HT-LATT-R,Latte,Hot Coffee,R,2.85
+it004,HT-LATT-L,Latte,Hot Coffee,L,3.95
+it005,HT-MACC-R,Macchiato,Hot Coffee,R,3.65
+it006,HT-MACC-L,Macchiato,Hot Coffee,L,4.65
+it007,HT-MOCH-R,Mocha,Hot Coffee,R,3.35
+it008,HT-MOCH-L,Mocha,Hot Coffee,L,4.45
+it009,IC-CARM-R,Iced Caramel Macchiato,Iced Coffee,R,4.65
+it010,IC-CARM-L,Iced Caramel Macchiato,Iced Coffee,L,5.25
+it011,IC-LATT-R,Iced Latte,Iced Coffee,R,4.45
+it012,IC-LATT-L,Iced Latte,Iced Coffee,L,5.25
+it013,IC-COFF-R,Iced Coffee,Iced Coffee,R,2.55
+it014,IC-COFF-L,Iced Coffee,Iced Coffee,L,3.25
+it015,SIDE-BANP-R,Banoffee Pie,Sides,R,7
+it016,SIDE-CHOB-R,Chocolate Brownie,Sides,R,5
+it017,SIDE-ICEC-R,Ice Cream,Sides,R,3

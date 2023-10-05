@@ -1,0 +1,10 @@
+ingre_id,ingre_name,ingre_weight,ingre_meas,ingre_price
+ING001,Ground Espresso,455,grams,8
+ING002,Milk,3785,ml,3
+ING003,Drinking Chocolate,750,ml,2
+ING004,Vanilla Syrup,375,ml,8
+ING005,Caramel Sauce,30,ml,1.3
+ING006,Honey,100,ml,1
+ING007,Banoffee Pie,1200,grams,30
+ING008,Chocolate Brownie,1500,grams,36
+ING009,Ice Cream,500,ml,8
